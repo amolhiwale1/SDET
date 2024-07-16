@@ -1,3 +1,5 @@
+package core_Java_practice;
+
 import java.util.Scanner;
 
 public class Calculator {
